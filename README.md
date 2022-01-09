@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viljarsare
 - 👀 I’m interested in coding Java
-- 🌱 I’m currently learning Udemy Springboot and Hibernate and Harvard CS50x  course.
+- 🌱 I’m currently learning in Udemy Springboot and Hibernate & Angularand Harvard CS50x course.
 - 💞️ I’m looking to collaborate on different interesting entry/junior level projects.
 - 📫 How to reach me - viljar@viljar.ee
 
